@@ -1,0 +1,10 @@
+# reach script/builds
+reach
+.reach/
+build/
+
+# IDE configurations
+.vscode/
+
+# Installed dependencies
+node_modules/
